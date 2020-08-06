@@ -1,2 +1,2 @@
-# Apple_Landing_Page
+# Apple Landing Page
 Dynamic landing page, apple style
